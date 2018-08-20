@@ -1,0 +1,5 @@
+## ignore Pycharm configuration files
+.idea
+
+## ignore files pertaining to macOS
+.DS_Store

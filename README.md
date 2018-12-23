@@ -33,7 +33,7 @@ The original source is from [open_digital_library](https://vk.com/open_digital_l
 | 2018-12-01 | [epub](https://vk.com/doc223751908_483534321?hash=ed5dd713adbb4ca840&dl=d3a06b6ce56d56db1b), [mobi](https://vk.com/doc223751908_483534353?hash=470c11ac87747ba55f&dl=36874271b5921b7cc5), [pdf](https://vk.com/doc223751908_483534392?hash=09411c73060fa12c11&dl=f604c3e86e56a8c23c), [audio](https://vk.com/doc223751908_483534917?hash=fa1f51ffc38d2cb90d&dl=df58fb96b0bbad4c2f) |
 | 2018-12-08 | [epub](https://vk.com/doc223751908_484424568?hash=20521210c77d5b5009&dl=9decad7f4ee512684e), [mobi](https://vk.com/doc223751908_484424576?hash=3f3d211b0c2dd0094b&dl=6d6e246dd031d76833), [pdf](https://vk.com/doc223751908_484424589?hash=20a759fe2daa61564d&dl=39025cb3f8d5cea090), [audio](https://vk.com/doc223751908_484424733?hash=35595139c6378587cf&dl=4f24dec11f70493c2f) |
 | 2018-12-15 | [epub](https://vk.com/doc223751908_485033021?hash=e2555d26f785ff187c&dl=1276b62960b30e8c51), [mobi](https://vk.com/doc223751908_485033025?hash=70d372d2e181d71a94&dl=14151e5326258e1350), [pdf](https://vk.com/doc223751908_485033035?hash=f0e0ce8d78c912dabc&dl=6739e6f4da8c5177d7), [audio](https://vk.com/doc223751908_485033128?hash=83c418d04567f2d9d9&dl=84a978d4af8f16bf51) |
-
+| 2018-12-22 | [epub](https://vk.com/doc223751908_485825553?hash=08beb948bfd69e83c4&dl=edd2a10e3af78c089c), [mobi](https://vk.com/doc223751908_485825561?hash=cd49ed9753e7e82f7b&dl=517cd7487aba6e39d7), [pdf](https://vk.com/doc223751908_485825567?hash=b31dd102931583500e&dl=434a9844454e265b42), [audio_01](https://vk.com/doc223751908_485824819?hash=deccb618506c2da2fc&dl=a6b1dd550109bbc21c), [audio_02](https://vk.com/doc223751908_485824862?hash=cf32ed4cc284eedbdb&dl=27ea839ac5ce741f43) |
 
 ## Notice
 

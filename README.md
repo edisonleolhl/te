@@ -56,6 +56,9 @@ The original source is from [open_digital_library](https://vk.com/open_digital_l
 | 2019-05-11 | [epub](https://vk.com/doc223751908_502194927?hash=3b0fc68e45cfde6b4a&dl=e48359f906aaf03446), [mobi](https://vk.com/doc223751908_502194947?hash=cd3591d1d23339dc63&dl=a4bd9d1e23e9d25747), [pdf](https://vk.com/doc223751908_502194975?hash=7c00fcd257fbb1dbe1&dl=eb1c36fbcffddbb3ea), [audio](https://vk.com/doc223751908_502195338?hash=4fa05ff3cfe1a37ee5&dl=3f8597b18de95dc258) |
 | 2019-05-18 | [epub](https://vk.com/doc223751908_502793790?hash=69e572fea4c063e63b&dl=13fcd627a40277a812), [mobi](https://vk.com/doc223751908_502793796?hash=d133b069f93b3cbc27&dl=ff0fc7f4d262993448), [pdf](https://vk.com/doc223751908_502793802?hash=b0c61c899eae6e84c2&dl=64974208490cff0fbc), [audio_01](https://vk.com/doc223751908_502793956?hash=a2b8296cd58bd51cf5&dl=2960bc2e6685cf148c), [audio_02](https://vk.com/doc223751908_502793999?hash=eea99d567b14543c7c&dl=a0de821e8b592cb1da) |
 | 2019-05-25 | [epub](https://vk.com/doc223751908_503707265?hash=083587b52a41150a9b&dl=54250d6ce9a4db3dbc), [mobi](https://vk.com/doc223751908_503707303?hash=cbc5540447fed0cdea&dl=b558d6c0835a8a300e), [pdf](https://vk.com/doc223751908_503707349?hash=742d0c06c4ffddbe57&dl=ecd1b947def3038f34), [audio](https://vk.com/doc223751908_503706188?hash=4fd1db9b07feb3d690&dl=3c88217497e8f5ed4d) |
+| 2019-06-01 | [epub](https://vk.com/doc223751908_504519272?hash=d0dad5ca1fbfb8b9c2&dl=b27b745ab077c24acc), [mobi](https://vk.com/doc223751908_504519288?hash=07fc72a4a26e6e8ad4&dl=13bdebb0aeddca622a), [pdf](https://vk.com/doc223751908_504519308?hash=6143cf2c9e47d8fce5&dl=7b495e1e122931f7b2), [audio](https://vk.com/doc223751908_504519566?hash=d891ba5e08501dcfc1&dl=a824e78edce61c72a6) |
+
+
 ## Notice
 
 This repo will be updated every week. 

@@ -68,7 +68,11 @@ The original source is from [open_digital_library](https://vk.com/open_digital_l
 | 2019-08-03 | [epub](https://vk.com/doc223751908_511762010?hash=897f80cc7c6dc90048&dl=f5ed903900e1fc0402), [mobi](https://vk.com/doc223751908_511762034?hash=8168b315e245ceb7b8&dl=a1d59776efbcdd0eb7), [pdf](https://vk.com/doc223751908_511762058?hash=ae9c789551e317f68d&dl=fb03db2958702ea57c), [audio](https://vk.com/doc223751908_511762446?hash=aa7643717854ed7f8e&dl=ee561b084b22517cff) |
 | 2019-08-10 | [epub](https://vk.com/doc223751908_512506854?hash=6290f819d34d37e115&dl=4656777533b5414b52), [mobi](https://vk.com/doc223751908_512506875?hash=e56fc2cf1997c48b0c&dl=aaca600fc837607318), [pdf](https://vk.com/doc223751908_512506895?hash=3f0f0dce904efdfca3&dl=429e56f02ef3dfb58a), [audio_01](https://vk.com/doc223751908_512507151?hash=8f98e1d5b43266689a&dl=9251cdfe87d9b5597d), [audio_02](https://vk.com/doc223751908_512507336?hash=9de140c14a7d69905d&dl=5faa42fa29800d9495) |
 | 2019-08-17 | [epub](https://vk.com/doc223751908_513175324?hash=528194ad6fd44aa0d0&dl=5b8496a03b4b1a476f), [mobi](https://vk.com/doc223751908_513175326?hash=ba27c6d683d836b2f8&dl=378fa7b26a7396d43a), [pdf](https://vk.com/doc223751908_513175327?hash=a1953d07e416289210&dl=13e1790a9f3b6ce147), [audio](https://vk.com/doc223751908_513175713?hash=130d1892250b598735&dl=82e8ce3fb68f8c98d2) |
+<<<<<<< HEAD
 | 2019-08-23 | [epub](https://vk.com/doc223751908_514082236?hash=53991d498c844f96b6&dl=ae4a2f8f44a348cca2), [mobi](https://vk.com/doc223751908_514082257?hash=9c5e5adef96dc6b217&dl=ab753b04e2c2782fc4), [pdf](https://vk.com/doc223751908_514082288?hash=667341ba990f9f8b52&dl=0d78058178bbc39b62), [audio](https://vk.com/doc223751908_514081991?hash=2eef97a7f5a0390bda&dl=adc91b2d653e1ba6a2) |
+=======
+| 2019-08-17 | [epub](https://vk.com/doc223751908_514082236?hash=53991d498c844f96b6&dl=ae4a2f8f44a348cca2), [mobi](https://vk.com/doc223751908_514082257?hash=9c5e5adef96dc6b217&dl=ab753b04e2c2782fc4), [pdf](https://vk.com/doc223751908_514082288?hash=667341ba990f9f8b52&dl=0d78058178bbc39b62), [audio](https://vk.com/doc223751908_514081991?hash=2eef97a7f5a0390bda&dl=adc91b2d653e1ba6a2) |
+>>>>>>> 8228d2934e41ab438cb0d1c7f8d8e8888583498d
 
 ## Notice
 

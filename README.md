@@ -10,6 +10,8 @@ Thanks to [nailperry-zd](https://github.com/nailperry-zd/The-Economist) previous
 
 The original source is from [open_digital_library](https://vk.com/open_digital_library), APPRECIATION !!!
 
+You can download audio resources every week with this link: [Yandex Disk](https://yadi.sk/d/BtzxAhnJ9qpuwg).
+
 ## Content
 
 | Date | links |
@@ -75,6 +77,7 @@ The original source is from [open_digital_library](https://vk.com/open_digital_l
 | 2019-09-21| [epub](https://vk.com/doc223751908_517498424?hash=c74fa9bf5511645850&dl=76c6ffe7ad4031e665), [mobi](https://vk.com/doc223751908_517498465?hash=459b13249adaac5a3f&dl=d0215b319163429372), [pdf](https://vk.com/doc223751908_517498521?hash=94498909fba379ba59&dl=5c18567333af0a2612), [audio](https://vk.com/doc223751908_517511278?hash=68785ef4c6a00ece9b&dl=543848e7e9077f6752) |
 | 2019-09-28| [epub](https://vk.com/doc223751908_518419831?hash=d5bb2d29de9e468be2&dl=9f02088be65c3ccf8a), [mobi](https://vk.com/doc223751908_518419835?hash=8749ac0758d81cfa4a&dl=c87e29472f8e3827bf), [pdf](https://vk.com/doc223751908_518419839?hash=f470a5cda5841fe3d3&dl=f0e10f05fbac35d57b) |
 | 2019-10-05| [epub](https://vk.com/doc223751908_519469439?hash=c31630efbdbfdc7bd1&dl=b12e4ac42af8f39344), [mobi](https://vk.com/doc223751908_519469478?hash=e55f8f1a7ccb909154&dl=0528a3b7c2b227d3d1), [pdf](https://vk.com/doc223751908_519469523?hash=ae26b253387c802157&dl=016a5b8043476f4f5c), [audio](https://s297myt.storage.yandex.net/rdisk/6bba6f1b0ef112975f1d21da41ccc4e90816b4d4597d34d04b6a81c2e778d1e6/5d99c670/2cKyP1TCRD7xkgSpKKZeUcPZ9hbQxCtsm9wxufceT_jeaTLZPt0eyNOdU7ENwMsPpV73BbItpkYTI8p4QM7pRg==?uid=0&filename=The_Economist_audio_edition_2019-10-05.7z&disposition=attachment&hash=ODxWKdCR252yAOQ6Qi35FLgf522quyu4EdpICyUBLEpCBqAQDYJqn1HXEZ1WTBnRq/J6bpmRyOJonT3VoXnDag%3D%3D%3A/The_Economist_audio_edition_2019-10-05.7z&limit=0&content_type=application%2Fx-7z-compressed&owner_uid=266462928&fsize=173843156&hid=6b0ee2ad2d67e8298587deb20d8463cd&media_type=compressed&tknv=v2&rtoken=gfPHS71BxQFJ&force_default=no&ycrid=na-e7a8fbb22d6cc4f4293a33ed5f2f449d-downloader8f&ts=5943bac2a7c00&s=08a59d762889dac98849efb8b2ad6f559eff036988becbcfeba28201f8d7a0f7&pb=U2FsdGVkX1--qCZtrzLt6tKAvVUyMLbSrxz2lgZPJoi-p3dh-MjRVW8aHlaAgh0gRTWiVh2jd_iuFQKtr_RhCTJ-pnMsrAIS05ojL13MxuI)|
+| 2019-10-19| [epub](https://vk.com/doc223751908_521198741?hash=96dc5d1b74960ce791&dl=3a38ba2d27755c4b45), [mobi](https://vk.com/doc223751908_521198749?hash=0d5d25388cc57eb7d7&dl=e4c1b7a7aed9974cc6), [pdf](https://vk.com/doc223751908_521198773?hash=c92db70d4be69f10df&dl=3cee9bfc8c51337d0a) |
 
 ## Notice
 

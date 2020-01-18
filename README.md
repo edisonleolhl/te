@@ -89,6 +89,8 @@ You can download audio resources every week with this link: [Yandex Disk](https:
 | 2019-12-14| [epub](https://vk.com/doc223751908_529440588?hash=9d37247218a5270074&dl=fb2b1001d9032cd16e), [mobi](https://vk.com/doc223751908_529440615?hash=9bb6392bd097631fce&dl=888edc3617a4188933), [pdf](https://vk.com/doc223751908_529440683?hash=66bc8992500e125882&dl=383b0e5b1819449bf2) |
 | The World in 2020| [epub](https://vk.com/doc223751908_530774990?hash=8c612ba634e9bee79a&dl=ca86daa480bba11c1a), [mobi](https://vk.com/doc223751908_530774995?hash=0100a6b7e051e21bec&dl=4d51a5e2d0cd9e9960), [pdf](https://vk.com/doc223751908_530775005?hash=8861ff17472b294a0b&dl=7c5977698e50a0ae58) |
 | 2020-01-04| [epub](https://vk.com/doc223751908_531268245?hash=54d87ac150333d8e44&dl=c86a8e8dbf9acdcbfa), [mobi](https://vk.com/doc223751908_531268274?hash=574fe487c66c75c756&dl=6431829c8418bab570), [pdf](https://vk.com/doc223751908_531268315?hash=a8c7599b3da3130828&dl=6966eae6e6bc1d40b5) |
+| 2020-01-11| [epub](https://vk.com/doc223751908_532260098?hash=7d9f65647ad4649629&dl=dd4c2cf453f7c4b05f), [mobi](https://vk.com/doc223751908_532260103?hash=7e27c0770492c4d318&dl=1f02177e832d2984c7), [pdf](https://vk.com/doc223751908_532260108?hash=44d1fcccd8a05aa93a&dl=fc9f2494f05e7c5e8b) |
+| 2020-01-18| [epub](https://vk.com/doc223751908_533161775?hash=4b15da510e709a04b3&dl=bb772cac6c428c2529), [mobi](https://vk.com/doc223751908_533161779?hash=5dcf7ed83c792560f5&dl=9854c67c2cd1ba97cb), [pdf](https://vk.com/doc223751908_533161782?hash=c1b2b934bc73dcd5c3&dl=3ec81913de28df2503) |
 
 ## Notice
 

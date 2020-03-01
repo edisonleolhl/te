@@ -96,6 +96,7 @@ You can download audio resources every week with this link: [Yandex Disk](https:
 | 2020-02-08| [epub](https://vk.com/doc223751908_535760336?hash=fe1c358f3cc00cd535&dl=bca4e000b969b5f8b5), [mobi](https://vk.com/doc223751908_535760351?hash=9aa322a9025f4c59e0&dl=d2f87f728188e82b2d), [pdf](https://vk.com/doc223751908_535760365?hash=0ccbb7df5a821f5a99&dl=df5cfe49e8b107cbb9) |
 | 2020-02-15| [epub](https://vk.com/doc223751908_536748597?hash=275b3319f6fc845303&dl=6b05d68e8fad59fe9f), [mobi](https://vk.com/doc223751908_536748692?hash=09b7387ef6aec5accd&dl=b2db18dead9a0cf41f), [pdf](https://vk.com/doc223751908_536748779?hash=dd9f0bd1d678414a5a&dl=16a6d68371d839d2ab) |
 | 2020-02-22| [epub](https://vk.com/doc223751908_537722624?hash=74cf586a9ebdd083f3&dl=18fb1488dfa701c861), [mobi](https://vk.com/doc223751908_537722671?hash=77e76fcc77a587e349&dl=f55ba49fbca5f4fde2), [pdf](https://vk.com/doc223751908_537722723?hash=846556b805a1b117cf&dl=83755580e6ed148641) |
+| 2020-02-29| [epub](https://vk.com/doc223751908_538573874?hash=c0660841f952cb247f&dl=9bb7d1e679914a0aa0), [mobi](https://vk.com/doc223751908_538573877?hash=b394a8960aaea5f102&dl=d66a1047b406521a2d), [pdf](https://vk.com/doc223751908_538573881?hash=bb06b52284d5108dc9&dl=c39a776ca50e3e066c) |
 
 ## Notice
 
